@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CrytoSphere-App2%20/static/css/main.42b2ff5e.css",
+    "main.js": "/CrytoSphere-App2%20/static/js/main.f183b0cc.js",
+    "static/js/787.e06f2a3a.chunk.js": "/CrytoSphere-App2%20/static/js/787.e06f2a3a.chunk.js",
+    "static/media/cryptocurrency.png": "/CrytoSphere-App2%20/static/media/cryptocurrency.1900c46c20438d27f2f5.png",
+    "index.html": "/CrytoSphere-App2%20/index.html",
+    "main.42b2ff5e.css.map": "/CrytoSphere-App2%20/static/css/main.42b2ff5e.css.map",
+    "main.f183b0cc.js.map": "/CrytoSphere-App2%20/static/js/main.f183b0cc.js.map",
+    "787.e06f2a3a.chunk.js.map": "/CrytoSphere-App2%20/static/js/787.e06f2a3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b2ff5e.css",
+    "static/js/main.f183b0cc.js"
+  ]
+}
