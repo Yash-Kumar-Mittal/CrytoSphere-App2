@@ -1,2 +1,2 @@
 # CrytoVeste
-https://crypto-vest.netlify.app/
+https://cryptoverse-avez.netlify.app/
