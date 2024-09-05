@@ -21,11 +21,11 @@ CryptoVeste is an application that provides comprehensive information and data a
 
 ## Images
 
-** Dashboard Page **
+ * Dashboard Page 
 
 ![image](https://github.com/user-attachments/assets/dc18175c-1d08-45d5-8eb0-e654584be8e8)
 
-** Graph of Respective Cryptocurrency **
+* Graph of Respective Cryptocurrency 
 
 ![image](https://github.com/user-attachments/assets/ecf733f0-dd0b-443e-94f6-27264de6c0bc)
 
