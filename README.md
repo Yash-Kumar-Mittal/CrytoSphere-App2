@@ -1,28 +1,27 @@
-# CrytoVeste
-This is an application known as CryptoVeste in which all the informations and data regarding different types of Cryptocurrencies is presented.
+# CryptoVeste
 
-** Functionalities **
-* In this application, we can see Global Stats of all cryptocurrencies.
-* We can explore different types of cryptocurrencies along with their statistic data, information and finally a Graph.
-*User can review information regarding Cryptocurrencies Exchanges through this application.
-*Cryptocurrency wise News is also displayed and can be explored!
-
-** Technologies Used **
-  
-*React.js is used for the development of frontend.
-
-*React UI library Ant-Design is used in this project for quality react components and icons.
-
-*Millify is used to simplify and format the statistical data.
-
-*Chart.js is used to display the chart/graph corresponding to each cryptocurrency.
-
-*An API platform Rapid Api is used for different API (Coinranking API and Bing News Search API) for fetching diferent data.
-
-*Redux Toolkit is used for configuration of API and application wide state management.
+CryptoVeste is an application that provides comprehensive information and data about various cryptocurrencies. It includes global statistics, detailed data on individual cryptocurrencies, and relevant news. The application is designed to offer users an easy and interactive way to explore the world of cryptocurrencies.
 
 
-![image](https://github.com/user-attachments/assets/1fd99a19-473f-4692-98da-b68649c8e2f0)
+## Features
 
+- **Global Statistics**: View global stats for all cryptocurrencies, including market cap, total coins, total markets, and more.
+- **Explore Cryptocurrencies**: Browse and explore different types of cryptocurrencies along with detailed statistical data, information, and graphical representations.
+- **Cryptocurrency Exchanges**: Access and review information regarding various cryptocurrency exchanges through the application.
+- **News**: Stay updated with the latest news related to specific cryptocurrencies, powered by the Bing News Search API.
 
-![image](https://github.com/user-attachments/assets/f2ae32c0-b208-4096-b25b-ffc705ca1327)
+## Technologies Used
+
+- **React.js**: Used for developing the frontend of the application, providing a seamless and responsive user experience.
+- **Ant Design**: A React UI library utilized in the project for quality components and icons, enhancing the design and usability.
+- **Millify**: Used to simplify and format the statistical data, making it easier to read and understand.
+- **Chart.js**: Employed to display charts/graphs corresponding to each cryptocurrency, providing visual insights into their performance.
+- **Rapid API**: Integrated for fetching various data using APIs such as Coinranking API for cryptocurrency data and Bing News Search API for news.
+- **Redux Toolkit**: Used for efficient API configuration and managing the application-wide state.
+
+## Images
+
+![image](https://github.com/user-attachments/assets/dc18175c-1d08-45d5-8eb0-e654584be8e8)
+
+![image](https://github.com/user-attachments/assets/ecf733f0-dd0b-443e-94f6-27264de6c0bc)
+
